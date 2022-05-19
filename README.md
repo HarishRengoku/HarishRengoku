@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarishRengoku
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C.
+- 🌱 I have learned C and I am currently learning python
 - 📫 You can reach me via Email.
 
 <!---
