@@ -1,4 +1,5 @@
-### Hi there 👋
+### ![image](https://github.com/HarishRengoku/HarishRengoku/assets/94498641/ee5d8e61-9324-4732-90c8-f09a3f975795)
+
 
 <!--
 **HarishRengoku/HarishRengoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
